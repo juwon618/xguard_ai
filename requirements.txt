@@ -1,0 +1,8 @@
+
+ultralytics==8.4.191
+torch
+numpy
+Pillow
+opencv-python
+matplotlib
+PyYAML

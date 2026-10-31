@@ -12,7 +12,7 @@ runs/
 *.pt
 *.pth
 *.onnx
-
+*.zip
 # macOS
 .DS_Store
 
